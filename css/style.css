@@ -1,0 +1,16 @@
+body {
+	font-family: 'VT323', monospace;
+	background-color: #212529;
+}
+
+.jumbotron {
+	background-color: slategrey;
+}
+
+th {
+	font-size: 23px;
+}
+
+.form-group {
+	font-size: 23px;
+}
