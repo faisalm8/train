@@ -5,6 +5,25 @@ body {
 
 .jumbotron {
 	background-color: slategrey;
+	background-image: url("../img/train.jpg");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: 100%;
+	height: auto;
+}
+
+.jumbotron h2 {
+	font-size: 60px;
+	color: #0071C8;
+	text-shadow: -1px 0 #000000,0 1px #000000,1px 0 #000000,0 -1px #000000;
+}
+
+.panel-title {
+	font-size: 28px;
+}
+
+#trainTable {
+	font-size: 25px;
 }
 
 th {
@@ -12,5 +31,10 @@ th {
 }
 
 .form-group {
+	font-size: 23px;
+	padding-left: 20px;
+}
+
+.btn {
 	font-size: 23px;
 }
